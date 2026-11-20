@@ -24,8 +24,14 @@
 
 ## 装
 
-去 [Releases](../../releases) 下 `GTP-Search-x.x.x-setup.exe`，双击安装。
-Windows 10/11 x64。装完桌面有个「谱库」快捷方式。
+Windows 10/11 x64。去 [Releases](../../releases) 拿安装包。
+
+安装包 85 MB，被拆成了 11 卷（`GTP-Search-0.2.0-setup.7z.001` 到 `.011`）——
+往 GitHub 传大于 10 MB 的单个文件会断。把 11 卷全部下载到同一个文件夹，
+用 [7-Zip](https://www.7-zip.org/) 右键 `...7z.001` 解压，得到 `GTP-Search-0.2.0-setup.exe`，
+双击安装。少一卷解不开。
+
+装完桌面有个「谱库」快捷方式。
 
 第一次打开是空的，点「选目录」挑一个装着谱子的文件夹（或者它的上一层），加进来就开始清点。
 支持 `.gp3 .gp4 .gp5 .gp .gtp .gpx`。
