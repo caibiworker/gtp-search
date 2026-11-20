@@ -19,3 +19,6 @@ crash.log
 .device
 login.out
 login.err
+
+# 本地切分出的安装包.device2
+parts/
