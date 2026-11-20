@@ -1,0 +1,15 @@
+node_modules/
+out/
+dist/
+release/
+shots/
+*.db
+*.db-wal
+*.db-shm
+*.log
+*.err
+*.tsbuildinfo
+search-test.txt
+open-result.json
+scan-result.json
+crash.log
