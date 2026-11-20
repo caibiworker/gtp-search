@@ -13,3 +13,9 @@ search-test.txt
 open-result.json
 scan-result.json
 crash.log
+
+# 本地凭据与日志
+.token
+.device
+login.out
+login.err
